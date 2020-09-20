@@ -1,3 +1,9 @@
+#
+# By Pulsar
+# Github: https://github.com/Woodnet 
+# Website: https://quantaphysics.000webhostapp.com
+# IP-Liste
+#
 127.0.0.1:localhost:Your:Local:PC
 172.217.23.36:Google|google:United States:Washington:Unknown
 172.217.23.14:Unknown|probably Google:United States:Washington:Unknown
@@ -10,5 +16,5 @@
 #API
 216.58.207.67:www.google.de:United States:California:Mountain View
 192.168.178.4:192.168.178.4:::
-2.205.161.15:2.205.161.15:Germany:Baden-Württemberg:Bruchsal
+2.205.161.15:2.205.161.15:Germany:Baden-WÃ¼rttemberg:Bruchsal
 52.2.226.158:ec2-52-2-226-158.compute-1.amazonaws.com:United States:Virginia:Ashburn

@@ -9,3 +9,7 @@ Diese Information wird angezeigt:
     [Land]
     [Bundesland]
     [Stadt]
+# Verschlüsselte Datenübertragung
+
+Die Datenübertragung zwischen der Datenbank und den Endbenutzer (Client) erfolgt über eine AES-128-Bit Verschlüsselung, welche durch das 
+Python Modul Fernet erstellt wird. Der Schlüssel wird zu Beginn des Startens vom Server-Script angezeigt.

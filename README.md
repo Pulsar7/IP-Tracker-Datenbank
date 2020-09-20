@@ -2,7 +2,7 @@
 Eine Datenbank für IP-Adressen und deren Standorte
 # IP-Tracker
 Das db.py Script sucht nach der vom Client angeforderten IP und dessen Standort usw. 
-Diese Information wird angezeigt: 
+Diese Informationen werden der IP entnommen: 
 
     [Hostname]
     [IP]

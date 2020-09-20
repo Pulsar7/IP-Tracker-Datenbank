@@ -1,3 +1,9 @@
+#
+# By Pulsar
+# Github: https://github.com/Woodnet 
+# Website: https://quantaphysics.000webhostapp.com
+# Python-Version: Python 3.8.2
+#
 import socket,os,sys,time
 from threading import Thread
 from cryptography.fernet import Fernet

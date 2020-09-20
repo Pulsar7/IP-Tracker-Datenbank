@@ -1,5 +1,5 @@
 # IP-Tracker-Datenbank
-Eine Datenbank für IP-Adressen und deren Standorte. Es können sich derzeit maximal 10 Clients verbinden, man kann jedoch innhalb des Scripts variieren. Beachte jedoch, dass das jeweilige Gerät die Anzahl von generierten Threads auch aushalten muss. -> Multithreading Server
+Eine Datenbank für IP-Adressen und deren Standorte. Es können sich derzeit maximal 10 Clients verbinden, man kann jedoch innhalb des Scripts variieren. Beachte jedoch, dass das jeweilige Gerät die Anzahl von generierten Threads auch verarbeiten muss. -> Multithreading Server
 # IP-Tracker
 Das db.py Script sucht nach der vom Client angeforderten IP und dessen Standort usw. 
 Diese Informationen werden der IP entnommen: 
